@@ -74,7 +74,7 @@ Team: The Seven Jurors
 Contibutors: Prabhu  ,
              Pari  ,
              Ananya  ,
-             Sneha  ,
+             Sneha Srivastava  ,
              Shanaya Gollar ,
              Aditi Mishra ,
              Anay .
