@@ -1,4 +1,4 @@
-  # Nyayamind_prototype
+ # Nyayamind_prototype
 Smarter legal search powered by AI - fast, contextual, and reliable.
 
 #NyayaMind — A Judicial Search & Learning System
