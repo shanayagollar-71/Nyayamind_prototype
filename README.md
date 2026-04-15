@@ -71,10 +71,10 @@ Sarvam AI Translate API – Indian language translation
 Demo URL: https://drive.google.com/file/d/13T_P0b8lQda8El9WRQx9Gv-r_qZA7f90/view?usp=drivesdk
 
 Team: The Seven Jurors
-Contibutors: Prabhu 
-             Pari
-             Ananya
-             Sneha Srivastava
-             Shanaya Gollar
-             Aditi Mishra
+Contibutors: Prabhu ,
+             Pari ,
+             Ananya ,
+             Sneha Srivastava ,
+             Shanaya Gollar ,
+             Aditi Mishra ,
              Anay Pathak
